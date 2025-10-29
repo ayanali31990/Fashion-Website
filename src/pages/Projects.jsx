@@ -6,56 +6,56 @@ const projectsData = [
     title: "Project 1",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/one.mp4",
+    video: "one.mp4",
   },
   {
     id: 2,
     title: "Project 2",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/two.mp4",
+    video: "two.mp4",
   },
   {
     id: 3,
     title: "Project 3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/three.mp4",
+    video: "three.mp4",
   },
   {
     id: 4,
     title: "Project 4",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/four.mp4",
+    video: "four.mp4",
   },
   {
     id: 5,
     title: "Project 5",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/five.mp4",
+    video: "five.mp4",
   },
   {
     id: 6,
     title: "Project 6",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/six.mp4",
+    video: "six.mp4",
   },
   {
     id: 7,
     title: "Project 7",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/seven.mp4",
+    video: "seven.mp4",
   },
   {
     id: 8,
     title: "Project 8",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam provident impedit culpa officiis.",
-    video: "/eight.mp4",
+    video: "eight.mp4",
   },
 ];
 
